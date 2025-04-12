@@ -35,7 +35,7 @@ packages = [
 [tool.poetry.dependencies]
 python = ">=3.6.1, <4.0"
 
-django = ">=2.2"
+django = ">=4.2"
 
 django-appconf = "^1.0"
 pillow = ">=5.0"
